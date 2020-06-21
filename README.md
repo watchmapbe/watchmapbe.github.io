@@ -6,4 +6,4 @@ This is merely a redirecting project to a citizen science project trying to deta
 
 [https://sunders.uber.space/?lat=50.6402809&lon=4.6667145&zoom=9](https://sunders.uber.space/?lat=50.6402809&lon=4.6667145&zoom=9)
 
-The link redirects to Belgium because that is the focus of WMBE (WatchMapBE)
+The link redirects to Belgium because that is the focus of [WMBE (WatchMapBE)](wmbe.github.io)
